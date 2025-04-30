@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-30T15:36:11 IST" name="Suite" finished-at="2025-04-30T15:36:48 IST" duration-ms="36712">
+    <groups>
+    </groups>
+    <test started-at="2025-04-30T15:36:11 IST" name="ChromeTest" finished-at="2025-04-30T15:36:41 IST" duration-ms="29738">
+      <class name="com.nielseniq.playwright_project01.CrossBrowserTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nielseniq.playwright_project01.CrossBrowserTest@3c7f66c4]" started-at="2025-04-30T15:36:11 IST" name="setup" finished-at="2025-04-30T15:36:33 IST" duration-ms="22338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="run()[pri:0, instance:com.nielseniq.playwright_project01.CrossBrowserTest@3c7f66c4]" started-at="2025-04-30T15:36:33 IST" name="run" finished-at="2025-04-30T15:36:37 IST" duration-ms="3555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nielseniq.playwright_project01.CrossBrowserTest@3c7f66c4]" started-at="2025-04-30T15:36:37 IST" name="tearDown" finished-at="2025-04-30T15:36:41 IST" duration-ms="3761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nielseniq.playwright_project01.CrossBrowserTest -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2025-04-30T15:36:11 IST" name="FirefoxTest" finished-at="2025-04-30T15:36:46 IST" duration-ms="35349">
+      <class name="com.nielseniq.playwright_project01.CrossBrowserTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nielseniq.playwright_project01.CrossBrowserTest@738dc9b]" started-at="2025-04-30T15:36:11 IST" name="setup" finished-at="2025-04-30T15:36:39 IST" duration-ms="28209" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="run()[pri:0, instance:com.nielseniq.playwright_project01.CrossBrowserTest@738dc9b]" started-at="2025-04-30T15:36:39 IST" name="run" finished-at="2025-04-30T15:36:43 IST" duration-ms="3805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nielseniq.playwright_project01.CrossBrowserTest@738dc9b]" started-at="2025-04-30T15:36:43 IST" name="tearDown" finished-at="2025-04-30T15:36:46 IST" duration-ms="3267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nielseniq.playwright_project01.CrossBrowserTest -->
+    </test> <!-- FirefoxTest -->
+    <test started-at="2025-04-30T15:36:11 IST" name="SafariTest" finished-at="2025-04-30T15:36:48 IST" duration-ms="36712">
+      <class name="com.nielseniq.playwright_project01.CrossBrowserTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nielseniq.playwright_project01.CrossBrowserTest@63376bed]" started-at="2025-04-30T15:36:11 IST" name="setup" finished-at="2025-04-30T15:36:34 IST" duration-ms="22783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="run()[pri:0, instance:com.nielseniq.playwright_project01.CrossBrowserTest@63376bed]" started-at="2025-04-30T15:36:34 IST" name="run" finished-at="2025-04-30T15:36:48 IST" duration-ms="13686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nielseniq.playwright_project01.CrossBrowserTest@63376bed]" started-at="2025-04-30T15:36:48 IST" name="tearDown" finished-at="2025-04-30T15:36:48 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nielseniq.playwright_project01.CrossBrowserTest -->
+    </test> <!-- SafariTest -->
+  </suite> <!-- Suite -->
+</testng-results>
